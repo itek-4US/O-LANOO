@@ -1,2 +1,2 @@
-# O-LANOO
-"Live as a path finder" 
+# oLanoo
+"Path finder" 
